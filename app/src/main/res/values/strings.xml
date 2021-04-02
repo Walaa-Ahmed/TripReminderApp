@@ -1,0 +1,76 @@
+<resources>
+    <!--app name -->
+    <string name="app_name">TripIt</string>
+
+    <!--processing trip -->
+    <string name="StartPoint">Starting Point</string>
+    <string name="endPoint">Ending Point</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <!--Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="logout">Logout</string>
+    <string name="drawer">Drawer</string>
+    <string name="Upcoming">Upcoming</string>
+    <string name="History">History</string>
+    <string name="Map">Map</string>
+    <string name="Send">Send</string>
+    <!--SignUp && Login -->
+    <string name="Register">Register</string>
+    <string name="userName">UserName</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="confirm_Password">Confirm Password</string>
+    <string name="have_account">Already Have an Account?</string>
+    <string name="Login">Login</string>
+    <string name="Forgot">Forgot Password?</string>
+    <string name="ResetPassword">Reset Password</string>
+    <string name="dont_have_account">Don\'t have an Account?</string>
+    <string name="SignUp">SignUp</string>
+    <string name="SignIn_Google">SignIn With Google</string>
+    <string name="next">Next</string>
+    <!--alert -->
+    <string name="want_logout">Do you want to logout?</string>
+    <string name="want_delete">Do you want to delete this trip?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="trip_name">TRIP NAME</string>
+    <string name="start_point">START POINT</string>
+    <string name="end_point">END POINT</string>
+    <string name="one_direction_trip">ONE DIRECTION</string>
+    <string name="round_trip">ROUND TRIP</string>
+    <string name="sync">Sync</string>
+    <string name="From">FROM</string>
+    <string name="to">TO</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">START</string>
+    <string name="name">Name</string>
+
+    <string name="new_note">NEW NOTE</string>
+    <string name="write_note">WRITE A NOTE</string>
+    <string name="add_note">ADD</string>
+    <string name="cancel_note">CANCEL</string>
+    <string name="at">AT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map">map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tripType">tripType</string>
+    <string name="status">status</string>
+    <string name="distance">Distance  : </string>
+    <string name="dis">Unknown</string>
+    <string name="duration">Duration  : </string>
+    <string name="dur">Unknown </string>
+    <string name="or">OR</string>
+    <string name="trip">TRIPIT</string>
+    <string name="letsgo">Let\'s go</string>
+    <string name="todo">TODO</string>
+    <string name="prev">Prev</string>
+    <string name="txtTripType">Trip Type : </string>
+    <string name="txtStatus">Status : </string>
+    <string name="goToMapActivity">Navigate Through Your Trips </string>
+
+
+</resources>
